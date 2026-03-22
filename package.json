@@ -1,0 +1,19 @@
+{
+  "name": "ghostblade-site",
+  "version": "1.0.0",
+  "description": "GhostBlade website for Solo Leveling and SSS Ranker comics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["GhostBlade","Solo Leveling","SSS Ranker","anime","comics","nextjs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
